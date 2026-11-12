@@ -1,1 +1,17 @@
-
+Go to your chrome browser and search for ORACLE VIRTUALBOX.
+Click on WINDOWS HOSTS for your windows operating system under VIRTUALBOX PLATFORM PACKAGES.
+Accept and Download the virtualbox EXTENSION PACK.
+Head over to your HOME folder and look for DOWNLOADS in your HOME folder.
+Right click or double click on the virtualbox you just downlaoded in order to install then click YES to install.
+Incase it does not install then you will need to Download MICROSOFT VISUAL C++ 2019 REDISTRIBUTABLE PACKAGE.
+On your chrome browser click on the LATEST SUPPORTED VISUAL C++ REDISTRIBUTABLE DOWNLOADS.
+Scroll down  to LATEST SUPPORTED REDISTRIBUTABLE VERSION and download the version that suits your system type.
+To find out your system type go to SEARCH on your taskbar and search for SYSTEM INFORMATION then look for system type then you are supposed to see your system type.
+Download and install.
+Go to your virtualbox and agree to the terms,leave th default settings as they're keep clicking NEXT then click INSTALL and FINISH to complete installation
+Now install the extention package to enable all the extra features in virtualbox.
+Go on your installed virtualbox and click on TOOLS menu
+If you can't find it check your FILE inside virtualbox,then click EXTENSION
+Click on the plus + icon usually GREEN in color select the extension pack from your DOWNLOADS FOLDER
+Click INSTALL, scroll down and select I AGREE.
+THESE ARE THE STEPS TO INSTALL AND SET UP YOUR VIRTUALBOX.

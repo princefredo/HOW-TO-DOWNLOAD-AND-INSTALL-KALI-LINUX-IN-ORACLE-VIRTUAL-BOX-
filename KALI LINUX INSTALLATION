@@ -1,1 +1,20 @@
-
+Go to your Chrome browser and search KALI LINUX.
+Click on the first option which is GET KALI.
+Under it you'll see INSTALLER IMAGES & VIRTUAL MACHINES.
+Go for VIRTUAL MACHINES PLATFORM.
+Under virtual machines,scroll down and look for VIRTUAL BOX as recommendation
+Click the download, it will take a while to download probably 3.6GB
+Inside your chrome browser seaerch for 7-zip file manager and download it based on your system type.
+Go to your DOWNLOADS to install the 7-zip by simply right clicking on it.
+Once installed still in your downloads folder right click on KALI linux.
+Look for 7-ZIP if you can't find it go to "SHOW MORE OPTIONS"
+Inside 7-ZIP choose EXTRACT ALL,it will extract kali linux then you will see two files virtual disk image and vitual machine definition file.
+GO to your virtualbox and click IMPORT then locate your kali linux in your downloads and click OPEN.
+Once imported you'll see it settings in virtualbox.
+When starting up your Kali linux, the USERNAME & PASSWORD is Kali in lowercase.
+FOR CONFIGURATION OF VIRTUAL MACHINE
+Click on settings and ensure you're inside EXPERT MODE
+Click FEATURES and make sure you drag and drop to BIDIRECTIONAL.it allows yout to share links and files between your host which is windows and virtual machine.
+Go to your network and check your network adapter.chosose NAT network to share your internet with the virtual machine.
+If you want kali to have it own IP address on your network then select BRIDGE ADAPTER,this allows your wifi to assign a separate IP to your kali linux.
+Every other settings just leave it at DEFAULT and start your kali linux.
